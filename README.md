@@ -17,7 +17,7 @@ SPA Universe é um projeto Desafio do Nível 06 do Programa Explorer RocketSeat.
 </div>
  
   
-## 🔗 Link da aplicação no ar: <a href="https://cg-spauniverse.netlify.app/" target="_blank"></a>
+## 🔗 Link da aplicação no ar: https://cg-spauniverse.netlify.app/
   
 ## :rocket: Tecnologias
 
